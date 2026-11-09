@@ -49,7 +49,7 @@ This project analyzes a synthetic retail orders dataset to identify business per
 
 ## 🖥️ Dashboard Preview
 
-![Retail Performance Dashboard](dashboard-preview.png)
+![Retail Performance Dashboard](Dashboard-Preview.png)
 
 ## 📁 Repository Contents
 
