@@ -53,7 +53,7 @@ This project analyzes a synthetic retail orders dataset to identify business per
 
 ## 📁 Repository Contents
 
-- `Retail_Performance_Dashboard.xlsx` — Completed Excel dashboard and analysis.
+- `Retail_Sales_analysis.xlsx` — Completed Excel dashboard and analysis.
 - `retail_performance_dashboard_practice.xlsx` — Original synthetic dataset.
 - `Dashboard-Preview.png` — Dashboard screenshot.
 
