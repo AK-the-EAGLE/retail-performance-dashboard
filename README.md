@@ -55,7 +55,7 @@ This project analyzes a synthetic retail orders dataset to identify business per
 
 - `Retail_Performance_Dashboard.xlsx` — Completed Excel dashboard and analysis.
 - `retail_performance_dashboard_practice.xlsx` — Original synthetic dataset.
-- `dashboard-preview.png` — Dashboard screenshot.
+- `Dashboard-Preview.png` — Dashboard screenshot.
 
 ## 💡 Skills Demonstrated
 
